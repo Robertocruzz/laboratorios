@@ -11,6 +11,8 @@
  * Created on 11 de septiembre de 2019, 13:42
  */
 
+LABORATORIO2
+
 #include <iostream>
 
 using namespace std;
