@@ -1,0 +1,27 @@
+
+2.3.3
+
+
+A) AB+C-
+   C-(A+B)
+  
+ 
+B) ABC+-
+   AB+C-
+   A-(B+C)
+
+C) AB-C+DEF-+$
+   AB-C+(D+(E-F))$
+   (A-B)C+(D+(E-F))$
+   (A-B)$C+(D+(E-F))
+   
+
+D) ABCDE-+$*EF*-
+   ABC(D-E)+$*(E*F)-
+   AB(C+(D-E))$*(E*F)-
+   A[B$(C+(D-E))]*(E*F)-
+   {A*[B$(C+(D-E))]}-(E*F)
+
+
+
+   
